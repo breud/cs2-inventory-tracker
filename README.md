@@ -1,6 +1,6 @@
 # CS2 Inventory Tracker
 
-A free, open-source Windows desktop app that pulls your CS2 inventory and compares prices across **Steam Market**, **CSFloat**, and **Buff163** side by side — so you can instantly see where to buy or sell for the best deal.
+A free, open-source Windows desktop app that pulls your CS2 inventory and compares prices, and shows the total value of your inventory across **Steam Market**, **CSFloat**, and **Buff163** side by side — so you can instantly see where to buy or sell for the best deal.
 
 ---
 
