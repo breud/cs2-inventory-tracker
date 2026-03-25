@@ -1,15 +1,14 @@
-# Never commit credentials
+# User credentials — never commit these
 config.json
 
-# PyInstaller build output
+# PyInstaller build artifacts
 build/
 dist/
 *.spec
 
 # Python cache
 __pycache__/
-*.pyc
-*.pyo
+*.py[cod]
 
 # OS files
 .DS_Store
